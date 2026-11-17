@@ -6,25 +6,25 @@ const MOMENTS = [
     date: "Monday, August 10 2026",
     title: "The day we met",
     text: "our first meeting, grabe sobrang ganda mo mahal. nahihiya pa ako sayo dyan pero dahil dinadaldal mo ako, ang bilis ko naging komportable para hawakan agad ang mga kamay mo",
-    photo: "photos/first meet up.jpg",
+    photo: "first meet up.jpg",
   },
   {
     date: "Monday, August 10 2026",
     title: "Our first date",
     text: "we ate at the mcdo that time. nilalamig ako dyan sobra WHAHAHAHHAHAHAH nahihiya kasi talaga ako sayo nung time na yan eheheh.",
-    photo: "photos/first date.jpg",
+    photo: "first date.jpg",
   },
   {
     date: "Monday, September 21 2026",
     title: "Just us",
     text: "Super random lang. i just love how we spend time together, full of kilig, tawa, and we can just be ourselves freely.",
-    photo: "photos/just us.jpg",
+    photo: "just us.jpg",
   },
   {
     date: "Monday, October 18 2026",
     title: "The day we became official!!!",
     text: "Genuinely unexpected, i don't know what to say. hindi ko nalang napigilan na maging emotional that time. sobrang saya ko kasi ikaw. mahal na mahal kita, let's be togetherness baby:)",
-    photo: "photos/official.jpg",
+    photo: "official.jpg",
   },
 ];
 const LETTER =
